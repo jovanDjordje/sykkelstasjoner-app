@@ -15,7 +15,10 @@ stasjonsnavn, kapasitet, antall sykler og dokker tilgjengelig.
 - kjør ````mvn install```` inn i samme mappe der pom filen er.
 - åpne prosjektet i code editor-en du bruker (Visual studio code, IntelliJ)
 - naviger til App.java \ (eks: ```~/Documents/API_oslo_komuna/maven/demo/src/main/java/com/bysykkelapp```)
-- kjør appen ved å trykke på "play" button i editoren.
+- kjør appen ved å trykke på "play" button i editoren. \
+
+![alt text](https://github.com/jovanDjordje/sykkelstasjoner-app/blob/master/table.png)
+
 #### Ting å jobbe med:
 -For øyeblikket hadde jeg bare tid til å skrive ut en liste til brukeren,
 men dette kan forbedres ved å lage et mer passende brukergrensesnitt. \
