@@ -1,0 +1,4 @@
+#Sun Nov 06 22:53:38 CET 2022
+configuration*?=5FD9D362A1A8786BCE1519028283278BA2560AC2
+module-resource*?\:checkstyle/suppressions.xml=98ADEB6F50DD1001B268D6A262B764017F7D6C7
+/Users/jovandj/Documents/API_oslo_komuna/maven/demo/src/test/java/com/bysykkelapp/AppTest.java=1667640918790
